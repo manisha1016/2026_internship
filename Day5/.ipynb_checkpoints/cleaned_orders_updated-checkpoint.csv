@@ -1,0 +1,282 @@
+Unnamed: 0,order_id,customer_name,age,gender,email,state,order_date,ship_date,category,product,quantity,unit_price,payment_method,order_status,rating
+0,ORD1205,Suresh Smith,49,Male,suresh.smith77@gmail.com,Kerala,24-05-2025,02-06-2025,BEAUTY,Face Wash,3,2490.0,net banking,delivered,3
+1,ORD1302,Arjun Iyer,28,Male,arjun.iyer22@yahoo.com,Kerala,05-01-2024,12-01-2024,CLOTHING,t-shirt,1,5990.0,cash on delivery,delivered,4
+2,ORD1234,meera khan,62,Male,meera.khan96@yahoo.com,Maharashtra,10-12-2024,14-12-2024,HOME & KITCHEN,Dinner Set,1,21990.0,upi,pending,1
+3,ORD1231,SURESH SHARMA,30,Female,suresh.sharma81@gmail.com,Tamil Nadu,18-03-2025,27-03-2025,BEAUTY,Hair Serum,2,6990.0,net banking,delivered,4
+4,ORD1260,Karthik Sharma,47,Male,karthik.sharma6@outlook.com,Tamil Nadu,23-08-2025,27-08-2025,BOOKS,SQL Guide,1,5990.0,net banking,shipped,5
+5,ORD1174,Lakshmi Reddy,35,Female,lakshmi.reddy71@yahoo.com,Maharashtra,21-01-2025,30-01-2025,ELECTRONICS,Smart Watch,1,59990.0,net banking,shipped,5
+6,ORD1192,Sarah Singh,41,Male,sarah.singh7@outlook.com,Telangana,23-10-2024,29-10-2024,ELECTRONICS,Wireless Mouse,4,8990.0,credit card,shipped,4
+7,ORD1346,Karthik Menon,45,Female,karthik.menon57@yahoo.com,Maharashtra,21-05-2024,28-05-2024,CLOTHING,T-Shirt,1,5990.0,upi,shipped,5
+8,ORD1343,Divya Singh,52,Male,divya.singh95@gmail.com,Telangana,18-10-2025,25-10-2025,BOOKS,Novel - Fiction,1,3990.0,upi,delivered,5
+9,ORD1446,Rohan Khan,30,Male,rohan.khan13@outlook.com,Kerala,05-01-2025,10-01-2025,BOOKS,SQL Guide,3,5990.0,upi,shipped,4
+10,ORD1373,John Smith,52,Male,john.smith32@gmail.com,Karnataka,16-06-2024,22-06-2024,BOOKS,Python Basics,3,6990.0,debit card,delivered,3
+12,ORD1337,Arjun Iyer,64,Male,arjun.iyer22@gmail.com,Maharashtra,27-02-2025,01-03-2025,BEAUTY,Face Wash,4,2490.0,cash on delivery,delivered,5
+16,ORD1450,Divya Sharma,43,Male,divya.sharma88@yahoo.com,Karnataka,06-06-2025,10-06-2025,ELECTRONICS,USB-C Cable,2,3490.0,upi,pending,5
+18,ORD1274,Imran Iyer,29,Female,imran.iyer99@yahoo.com,West Bengal,28-02-2025,09-03-2025,ELECTRONICS,Headphones,1,19990.0,debit card,pending,1
+19,ORD1225,Emily Singh,47,Female,emily.singh61@yahoo.com,Delhi,10-08-2025,13-08-2025,ELECTRONICS,Smart Watch,2,59990.0,net banking,shipped,1
+20,ORD1262,Fatima Iyer,47,Male,fatima.iyer47@outlook.com,Kerala,04-04-2024,07-04-2024,CLOTHING,T-Shirt,1,5990.0,net banking,delivered,3
+21,ORD1189,Suresh Das,59,Female,suresh.das24@yahoo.com,Maharashtra,08-04-2024,10-04-2024,ELECTRONICS,Headphones,1,19990.0,credit card,delivered,3
+24,ORD1464,ARJUN PATEL,52,Male,arjun.patel19@outlook.com,West Bengal,11-08-2025,12-08-2025,BEAUTY,Moisturizer,3,4990.0,cash on delivery,delivered,5
+26,ORD1241,Vikram Khan,59,Female,vikram.khan48@yahoo.com,Tamil Nadu,09-03-2024,14-03-2024,ELECTRONICS,Power Bank,5,14990.0,upi,pending,4
+27,ORD1121,Rahul Menon,21,Female,rahul.menon29@outlook.com,Delhi,08-06-2025,15-06-2025,ELECTRONICS,Power Bank,1,14990.0,cash on delivery,pending,4
+28,ORD1005,Arjun Das,62,Male,arjun.das47@gmail.com,Telangana,12-06-2025,21-06-2025,ELECTRONICS,Wireless Mouse,3,8990.0,cash on delivery,delivered,4
+31,ORD1083,Vikram Nair,65,female,vikram.nair29@outlook.com,Maharashtra,10-10-2025,14-10-2025,CLOTHING,Hoodie,3,12990.0,credit card,delivered,3
+32,ORD1187,Emily Reddy,55,Male,emily.reddy57@yahoo.com,Tamil Nadu,20-05-2024,27-05-2024,HOME & KITCHEN,Mixer Grinder,2,32990.0,upi,delivered,1
+34,ORD1078,Emily Patel,40,Female,emily.patel8@gmail.com,Karnataka,29-08-2024,02-09-2024,BOOKS,Novel - Fiction,5,3990.0,net banking,delivered,2
+35,ORD1092,Fatima Brown,53,Female,fatima.brown91@yahoo.com,Delhi,12-11-2024,21-11-2024,ELECTRONICS,Headphones,1,19990.0,upi,shipped,5
+36,ORD1210,Karthik Johnson,19,Female,karthik.johnson78@gmail.com,West Bengal,25-03-2024,26-03-2024,ELECTRONICS,USB-C Cable,4,3490.0,net banking,delivered,5
+37,ORD1073,Divya Sharma,41,Male,divya.sharma51@outlook.com,Tamil Nadu,23-01-2025,28-01-2025,BEAUTY,Hair Serum,1,6990.0,upi,delivered,5
+38,ORD1104,Emily Sharma,30,Male,emily.sharma57@yahoo.com,Tamil Nadu,27-11-2024,01-12-2024,HOME & KITCHEN,Water Bottle,1,4990.0,cash on delivery,delivered,5
+39,ORD1102,Aarav Smith,42,Female,aarav.smith71@yahoo.com,Kerala,15-02-2025,20-02-2025,CLOTHING,Jeans,1,17990.0,credit card,delivered,2
+41,ORD1454,Imran Nair,63,Female,imran.nair56@gmail.com,West Bengal,05-09-2025,14-09-2025,ELECTRONICS,Smart Watch,1,59990.0,cash on delivery,delivered,4
+42,ORD1066,Meera Wilson,63,Female,meera.wilson26@outlook.com,Kerala,06-08-2025,13-08-2025,ELECTRONICS,Wireless Mouse,2,8990.0,net banking,delivered,5
+46,ORD1074,Divya Patel,50,Male,divya.patel39@yahoo.com,Maharashtra,18-02-2025,22-02-2025,BOOKS,SQL Guide,1,5990.0,debit card,delivered,5
+50,ORD1047,FATIMA DAS,42,Male,fatima.das20@yahoo.com,Telangana,28-03-2024,03-04-2024,CLOTHING,Hoodie,1,12990.0,credit card,shipped,5
+52,ORD1145,Vikram Singh,62,Male,vikram.singh68@gmail.com,Tamil Nadu,22-02-2024,25-02-2024,CLOTHING,Jacket,2,34990.0,upi,delivered,3
+53,ORD1235,Arjun Iyer,50,Female,arjun.iyer58@yahoo.com,Maharashtra,13-12-2024,16-12-2024,HOME & KITCHEN,Dinner Set,1,21990.0,credit card,shipped,4
+54,ORD1327,Lakshmi Kumar,45,female,lakshmi.kumar98@outlook.com,Maharashtra,23-06-2024,26-06-2024,ELECTRONICS,Headphones,1,19990.0,credit card,delivered,3
+55,ORD1421,Priya Iyer,37,female,priya.iyer33@yahoo.com,West Bengal,29-09-2024,02-10-2024,ELECTRONICS,Headphones,3,19990.0,debit card,shipped,4
+58,ORD1333,Meera Kumar,37,Female,meera.kumar97@outlook.com,Maharashtra,17-06-2025,22-06-2025,ELECTRONICS,wireless mouse,1,8990.0,credit card,delivered,4
+59,ORD1138,Karthik Singh,44,female,karthik.singh83@gmail.com,Kerala,07-08-2025,12-08-2025,CLOTHING,Jacket,1,34990.0,cash on delivery,delivered,4
+65,ORD1271,Aarav Wilson,50,Male,aarav.wilson32@gmail.com,Telangana,21-10-2024,23-10-2024,ELECTRONICS,Power Bank,3,14990.0,cash on delivery,delivered,4
+66,ORD1331,Emily Brown,62,Female,emily.brown37@outlook.com,Telangana,27-08-2025,02-09-2025,BOOKS,Python Basics,1,6990.0,upi,delivered,5
+67,ORD1388,Lakshmi Brown,28,Female,lakshmi.brown1@yahoo.com,Kerala,06-03-2024,08-03-2024,BOOKS,Novel - Fiction,3,3990.0,debit card,delivered,3
+68,ORD1019,Priya Johnson,53,Male,priya.johnson63@gmail.com,Tamil Nadu,21-05-2024,26-05-2024,BEAUTY,Moisturizer,1,4990.0,debit card,shipped,5
+69,ORD1071,Aarav Reddy,54,Male,aarav.reddy66@gmail.com,Tamil Nadu,20-07-2025,29-07-2025,CLOTHING,T-Shirt,1,5990.0,net banking,shipped,5
+73,ORD1153,Fatima Nair,32,Male,fatima.nair65@gmail.com,Maharashtra,28-04-2025,01-05-2025,CLOTHING,Sneakers,2,29990.0,upi,shipped,4
+74,ORD1283,Ananya Singh,31,Male,ananya.singh30@outlook.com,Tamil Nadu,21-03-2025,26-03-2025,HOME & KITCHEN,Mixer Grinder,2,32990.0,upi,delivered,1
+75,ORD1111,Kavya Brown,49,Male,kavya.brown87@outlook.com,Tamil Nadu,23-12-2024,31-12-2024,ELECTRONICS,Power Bank,1,14990.0,upi,shipped,4
+76,ORD1418,Rahul Iyer,30,Female,rahul.iyer63@outlook.com,Tamil Nadu,04-09-2024,07-09-2024,ELECTRONICS,Bluetooth Speaker,3,24990.0,credit card,delivered,1
+79,ORD1003,Suresh Khan,40,Female,suresh.khan91@yahoo.com,Maharashtra,16-03-2025,21-03-2025,CLOTHING,Jeans,1,17990.0,debit card,returned,3
+80,ORD1435,Rahul Khan,44,Male,rahul.khan96@yahoo.com,Tamil Nadu,20-03-2025,24-03-2025,CLOTHING,T-Shirt,4,5990.0,credit card,shipped,5
+81,ORD1440,Vikram Smith,36,Male,vikram.smith79@outlook.com,Tamil Nadu,26-03-2024,29-03-2024,HOME & KITCHEN,Dinner Set,4,21990.0,net banking,delivered,2
+82,ORD1372,Arjun Das,49,Female,arjun.das66@gmail.com,Kerala,21-07-2025,22-07-2025,CLOTHING,Sneakers,3,29990.0,net banking,delivered,4
+84,ORD1387,John Smith,42,Female,john.smith43@yahoo.com,Maharashtra,16-09-2024,19-09-2024,CLOTHING,T-Shirt,2,5990.0,net banking,delivered,3
+85,ORD1076,Suresh Iyer,32,Male,suresh.iyer78@outlook.com,Maharashtra,05-07-2024,10-07-2024,BOOKS,SQL Guide,4,5990.0,net banking,delivered,1
+87,ORD1250,Emily Iyer,63,Male,emily.iyer54@yahoo.com,Maharashtra,15-08-2024,20-08-2024,BEAUTY,Moisturizer,1,4990.0,debit card,delivered,3
+89,ORD1197,Aarav Khan,53,Male,aarav.khan1@yahoo.com,Telangana,23-02-2024,26-02-2024,BEAUTY,Perfume,1,14990.0,upi,pending,4
+94,ORD1180,Ananya Iyer,48,Male,ananya.iyer55@gmail.com,Maharashtra,19-02-2025,22-02-2025,BOOKS,SQL Guide,2,5990.0,debit card,delivered,3
+95,ORD1081,Arjun Reddy,49,Female,arjun.reddy7@gmail.com,Telangana,03-08-2025,10-08-2025,CLOTHING,jacket,1,34990.0,net banking,returned,3
+97,ORD1321,Emily Singh,45,Male,emily.singh37@yahoo.com,Delhi,19-05-2025,26-05-2025,CLOTHING,Jeans,2,17990.0,debit card,delivered,4
+98,ORD1479,Rohan Khan,50,Male,rohan.khan31@outlook.com,Kerala,11-03-2024,19-03-2024,HOME & KITCHEN,Cookware Set,2,39990.0,net banking,delivered,5
+100,ORD1270,Meera Nair,64,Male,meera.nair24@outlook.com,Delhi,19-11-2024,21-11-2024,HOME & KITCHEN,Cookware Set,2,39990.0,upi,pending,5
+103,ORD1379,Suresh Smith,57,Female,suresh.smith88@gmail.com,Delhi,02-08-2025,11-08-2025,BEAUTY,Perfume,2,14990.0,debit card,shipped,2
+108,ORD1471,Aarav Reddy,24,Female,aarav.reddy46@gmail.com,Tamil Nadu,22-09-2025,23-09-2025,CLOTHING,T-Shirt,1,5990.0,cash on delivery,delivered,1
+110,ORD1052,Lakshmi Khan,45,Male,lakshmi.khan81@gmail.com,Maharashtra,28-04-2025,01-05-2025,BEAUTY,Moisturizer,1,4990.0,credit card,delivered,2
+114,ORD1012,PRIYA KHAN,58,Female,priya.khan26@yahoo.com,Karnataka,14-06-2024,17-06-2024,BEAUTY,Perfume,2,14990.0,cash on delivery,delivered,3
+118,ORD1053,Priya Kumar,56,Male,priya.kumar40@outlook.com,Tamil Nadu,25-09-2025,30-09-2025,HOME & KITCHEN,Water Bottle,1,4990.0,net banking,delivered,5
+119,ORD1058,Sneha Patel,46,Male,sneha.patel76@outlook.com,Tamil Nadu,22-07-2024,27-07-2024,HOME & KITCHEN,Dinner Set,1,21990.0,net banking,shipped,4
+121,ORD1339,Rohan Patel,32,Female,rohan.patel43@yahoo.com,Delhi,03-09-2025,05-09-2025,BEAUTY,Hair Serum,2,6990.0,credit card,delivered,4
+122,ORD1448,Suresh Sharma,29,Male,suresh.sharma13@yahoo.com,Karnataka,11-07-2025,12-07-2025,BEAUTY,Hair Serum,2,6990.0,debit card,delivered,5
+123,ORD1082,Lakshmi Iyer,42,Female,lakshmi.iyer93@gmail.com,Kerala,13-11-2025,16-11-2025,ELECTRONICS,Wireless Mouse,1,8990.0,credit card,pending,5
+124,ORD1016,imran das,57,Male,imran.das99@gmail.com,Maharashtra,05-05-2025,10-05-2025,ELECTRONICS,Bluetooth Speaker,3,24990.0,credit card,pending,5
+125,ORD1385,IMRAN SINGH,55,Female,imran.singh16@gmail.com,Maharashtra,15-10-2024,23-10-2024,HOME & KITCHEN,Mixer Grinder,2,32990.0,cash on delivery,delivered,5
+128,ORD1439,KAVYA WILSON,51,Male,kavya.wilson20@gmail.com,Delhi,08-05-2024,10-05-2024,ELECTRONICS,Power Bank,1,14990.0,debit card,delivered,2
+129,ORD1475,sarah nair,24,Female,sarah.nair87@gmail.com,Delhi,23-09-2024,26-09-2024,BEAUTY,Perfume,1,14990.0,debit card,pending,5
+130,ORD1341,Meera Khan,59,Female,meera.khan9@gmail.com,Delhi,17-06-2024,21-06-2024,BOOKS,Python Basics,1,6990.0,cash on delivery,delivered,4
+133,ORD1222,Priya Kumar,53,male,priya.kumar24@yahoo.com,West Bengal,16-10-2024,25-10-2024,HOME & KITCHEN,Air Fryer,3,54990.0,debit card,shipped,3
+138,ORD1006,AARAV BROWN,40,Female,aarav.brown58@outlook.com,Tamil Nadu,17-07-2024,23-07-2024,HOME & KITCHEN,Water Bottle,1,4990.0,credit card,shipped,3
+139,ORD1020,Divya Sharma,30,Male,divya.sharma34@outlook.com,Maharashtra,03-04-2024,09-04-2024,CLOTHING,Jacket,1,34990.0,net banking,delivered,4
+144,ORD1091,PRIYA SHARMA,18,Male,priya.sharma33@yahoo.com,West Bengal,21-05-2025,28-05-2025,CLOTHING,T-Shirt,2,5990.0,upi,pending,5
+145,ORD1432,Suresh Johnson,47,Male,suresh.johnson19@outlook.com,Maharashtra,21-07-2024,27-07-2024,CLOTHING,T-Shirt,2,5990.0,credit card,delivered,2
+149,ORD1457,John Singh,40,Male,john.singh65@gmail.com,Delhi,15-02-2025,23-02-2025,CLOTHING,Jacket,2,34990.0,credit card,shipped,3
+152,ORD1280,Divya Khan,37,Female,divya.khan91@yahoo.com,Tamil Nadu,26-01-2024,31-01-2024,BEAUTY,Hair Serum,2,6990.0,credit card,shipped,5
+153,ORD1430,Priya Kumar,47,Male,priya.kumar44@yahoo.com,Maharashtra,15-06-2025,18-06-2025,BOOKS,Python Basics,2,6990.0,debit card,delivered,4
+155,ORD1224,Divya Nair,55,Female,divya.nair72@yahoo.com,Telangana,21-03-2024,30-03-2024,ELECTRONICS,Smart Watch,2,59990.0,cash on delivery,delivered,5
+156,ORD1330,Sneha Johnson,19,Female,sneha.johnson48@outlook.com,Maharashtra,20-08-2025,26-08-2025,CLOTHING,Jeans,4,17990.0,cash on delivery,delivered,5
+157,ORD1163,Ananya Iyer,22,Female,ananya.iyer91@outlook.com,Kerala,03-11-2024,07-11-2024,CLOTHING,Jeans,1,17990.0,credit card,delivered,3
+158,ORD1220,Vikram Das,38,Male,vikram.das18@outlook.com,Karnataka,03-07-2024,10-07-2024,HOME & KITCHEN,Water Bottle,1,4990.0,net banking,delivered,4
+159,ORD1292,Aarav Sharma,62,Female,aarav.sharma94@gmail.com,Delhi,25-11-2024,30-11-2024,ELECTRONICS,Headphones,3,19990.0,upi,delivered,5
+161,ORD1032,IMRAN PATEL,47,Male,imran.patel98@outlook.com,Kerala,16-05-2025,24-05-2025,HOME & KITCHEN,Dinner Set,1,21990.0,net banking,delivered,4
+162,ORD1375,Divya Wilson,56,Female,divya.wilson31@gmail.com,Maharashtra,11-09-2024,14-09-2024,HOME & KITCHEN,Water Bottle,1,4990.0,upi,delivered,4
+165,ORD1209,kavya kumar,47,Male,kavya.kumar16@outlook.com,Maharashtra,24-07-2024,02-08-2024,CLOTHING,Sneakers,5,29990.0,cash on delivery,delivered,2
+166,ORD1114,Michael Brown,60,Female,michael.brown95@outlook.com,Maharashtra,26-12-2024,04-01-2025,ELECTRONICS,Bluetooth Speaker,2,24990.0,debit card,shipped,4
+167,ORD1046,Karthik Patel,53,Male,karthik.patel61@outlook.com,Maharashtra,11-03-2024,15-03-2024,ELECTRONICS,Smart Watch,1,59990.0,debit card,returned,4
+170,ORD1443,Rahul Iyer,62,Female,rahul.iyer50@outlook.com,Karnataka,31-08-2025,08-09-2025,ELECTRONICS,Wireless Mouse,1,8990.0,net banking,pending,5
+172,ORD1381,Suresh Khan,26,Male,suresh.khan59@outlook.com,Maharashtra,04-01-2024,06-01-2024,CLOTHING,Jeans,1,17990.0,upi,delivered,5
+175,ORD1190,Ananya Wilson,37,Female,ananya.wilson61@yahoo.com,Kerala,01-10-2024,09-10-2024,HOME & KITCHEN,Mixer Grinder,1,32990.0,debit card,pending,5
+179,ORD1060,Sneha Nair,42,Female,sneha.nair31@gmail.com,Delhi,18-03-2025,22-03-2025,ELECTRONICS,Smart Watch,3,59990.0,net banking,pending,3
+181,ORD1406,Aarav Singh,38,Male,aarav.singh49@gmail.com,Kerala,30-04-2025,08-05-2025,BOOKS,SQL Guide,2,5990.0,upi,delivered,5
+182,ORD1001,Sneha Khan,45,Female,sneha.khan88@outlook.com,Telangana,02-03-2024,10-03-2024,HOME & KITCHEN,Air Fryer,2,54990.0,net banking,shipped,5
+184,ORD1141,Kavya Iyer,34,Male,kavya.iyer8@gmail.com,Kerala,05-05-2025,11-05-2025,CLOTHING,T-Shirt,1,5990.0,upi,returned,2
+185,ORD1294,Aarav Johnson,54,Male,aarav.johnson56@outlook.com,West Bengal,19-04-2024,25-04-2024,ELECTRONICS,Power Bank,4,14990.0,cash on delivery,delivered,4
+186,ORD1323,Imran Iyer,19,Male,imran.iyer26@outlook.com,Telangana,19-04-2025,27-04-2025,ELECTRONICS,usb-c cable,2,3490.0,cash on delivery,delivered,3
+187,ORD1313,Ananya Singh,65,Female,ananya.singh15@outlook.com,Delhi,01-11-2025,09-11-2025,BOOKS,Data Science Handbook,1,12990.0,net banking,delivered,2
+192,ORD1170,Vikram Iyer,26,Male,vikram.iyer85@outlook.com,Telangana,25-08-2025,30-08-2025,ELECTRONICS,Power Bank,1,14990.0,net banking,pending,4
+195,ORD1129,Divya Iyer,39,Female,divya.iyer55@outlook.com,Tamil Nadu,14-06-2024,20-06-2024,CLOTHING,Hoodie,3,12990.0,credit card,delivered,5
+196,ORD1033,Vikram Das,57,Female,vikram.das9@yahoo.com,Maharashtra,18-06-2024,22-06-2024,BEAUTY,Face Wash,1,2490.0,debit card,shipped,4
+197,ORD1240,Kavya Das,58,Male,kavya.das59@gmail.com,Maharashtra,12-12-2024,15-12-2024,BEAUTY,Hair Serum,2,6990.0,upi,delivered,4
+198,ORD1169,Imran Das,27,Female,imran.das31@outlook.com,Karnataka,03-04-2024,10-04-2024,CLOTHING,Hoodie,1,12990.0,credit card,delivered,2
+200,ORD1397,Lakshmi Menon,36,female,lakshmi.menon68@gmail.com,Tamil Nadu,20-08-2024,28-08-2024,HOME & KITCHEN,Mixer Grinder,1,32990.0,upi,pending,3
+202,ORD1168,Suresh Khan,36,Male,suresh.khan73@yahoo.com,Tamil Nadu,17-07-2024,25-07-2024,HOME & KITCHEN,Water Bottle,2,4990.0,cash on delivery,delivered,5
+208,ORD1101,Lakshmi Singh,57,Male,lakshmi.singh75@gmail.com,Delhi,19-09-2024,26-09-2024,CLOTHING,T-Shirt,2,5990.0,cash on delivery,delivered,4
+209,ORD1408,Suresh Menon,45,Male,suresh.menon67@yahoo.com,Tamil Nadu,23-05-2024,28-05-2024,HOME & KITCHEN,Dinner Set,1,21990.0,cash on delivery,delivered,4
+210,ORD1051,Ananya Sharma,41,Male,ananya.sharma84@gmail.com,Maharashtra,07-02-2024,09-02-2024,ELECTRONICS,Wireless Mouse,2,8990.0,upi,delivered,5
+211,ORD1350,Priya Patel,36,Female,priya.patel85@yahoo.com,Delhi,19-10-2024,24-10-2024,BEAUTY,Moisturizer,1,4990.0,upi,shipped,3
+212,ORD1384,Rohan Sharma,35,Male,rohan.sharma25@outlook.com,Tamil Nadu,11-05-2024,15-05-2024,HOME & KITCHEN,Mixer Grinder,1,32990.0,credit card,shipped,5
+213,ORD1298,Emily Patel,38,Female,emily.patel18@gmail.com,Telangana,16-08-2025,18-08-2025,CLOTHING,Hoodie,1,12990.0,credit card,delivered,4
+214,ORD1360,Meera Das,60,Male,meera.das21@yahoo.com,Maharashtra,16-12-2024,20-12-2024,BEAUTY,Hair Serum,1,6990.0,upi,pending,3
+218,ORD1026,Lakshmi Wilson,56,Male,lakshmi.wilson89@gmail.com,Delhi,06-07-2024,11-07-2024,BEAUTY,Hair Serum,2,6990.0,upi,delivered,4
+219,ORD1110,Meera Iyer,44,Female,meera.iyer2@yahoo.com,Karnataka,17-04-2025,20-04-2025,ELECTRONICS,headphones,1,19990.0,credit card,shipped,2
+220,ORD1304,Suresh Brown,38,Female,suresh.brown70@gmail.com,Tamil Nadu,07-04-2024,12-04-2024,ELECTRONICS,Smart Watch,1,59990.0,net banking,delivered,3
+222,ORD1242,Rahul Das,62,Male,rahul.das7@gmail.com,Maharashtra,03-06-2024,06-06-2024,CLOTHING,Jeans,1,17990.0,cash on delivery,pending,5
+223,ORD1267,Meera Khan,34,Male,meera.khan17@yahoo.com,Maharashtra,01-04-2025,09-04-2025,BOOKS,SQL Guide,4,5990.0,net banking,delivered,1
+225,ORD1093,Ananya Khan,40,Female,ananya.khan28@outlook.com,Karnataka,05-09-2024,13-09-2024,HOME & KITCHEN,Air Fryer,1,54990.0,net banking,delivered,3
+226,ORD1478,Fatima Brown,64,Male,fatima.brown69@yahoo.com,Maharashtra,29-07-2025,05-08-2025,HOME & KITCHEN,Air Fryer,4,54990.0,upi,pending,3
+227,ORD1469,Sneha Brown,22,Female,sneha.brown87@yahoo.com,Telangana,05-10-2025,10-10-2025,BEAUTY,Face Wash,3,2490.0,credit card,delivered,5
+230,ORD1476,KAVYA PATEL,41,Male,kavya.patel31@outlook.com,Tamil Nadu,21-08-2024,27-08-2024,ELECTRONICS,Bluetooth Speaker,2,24990.0,net banking,returned,5
+233,ORD1269,karthik brown,33,Female,karthik.brown11@outlook.com,Kerala,23-06-2025,24-06-2025,BOOKS,Data Science Handbook,2,12990.0,debit card,pending,3
+234,ORD1162,Ananya Patel,49,Female,ananya.patel13@outlook.com,West Bengal,19-05-2025,25-05-2025,ELECTRONICS,USB-C Cable,4,3490.0,debit card,pending,4
+235,ORD1311,Imran Das,30,Male,imran.das44@yahoo.com,West Bengal,12-08-2025,13-08-2025,HOME & KITCHEN,Cookware Set,1,39990.0,credit card,delivered,4
+237,ORD1207,Aarav Khan,39,male,aarav.khan82@yahoo.com,Delhi,20-05-2024,22-05-2024,BOOKS,Novel - Fiction,4,3990.0,cash on delivery,delivered,3
+239,ORD1282,Emily Das,31,Male,emily.das73@yahoo.com,Telangana,04-04-2025,05-04-2025,BOOKS,SQL Guide,2,5990.0,net banking,delivered,4
+240,ORD1069,LAKSHMI KUMAR,52,female,lakshmi.kumar69@yahoo.com,Maharashtra,01-08-2025,06-08-2025,BOOKS,Novel - Fiction,1,3990.0,cash on delivery,pending,5
+241,ORD1305,Ananya Wilson,47,Male,ananya.wilson77@outlook.com,Telangana,26-09-2025,04-10-2025,BEAUTY,Face Wash,2,2490.0,upi,delivered,5
+243,ORD1422,Sneha Patel,38,Male,sneha.patel38@gmail.com,Tamil Nadu,23-04-2025,27-04-2025,ELECTRONICS,Bluetooth Speaker,5,24990.0,credit card,shipped,5
+244,ORD1263,Ananya Reddy,20,Female,ananya.reddy67@gmail.com,Delhi,29-07-2024,31-07-2024,CLOTHING,Jacket,4,34990.0,cash on delivery,delivered,4
+245,ORD1244,Lakshmi Patel,22,Female,lakshmi.patel12@outlook.com,Tamil Nadu,21-08-2024,27-08-2024,CLOTHING,T-Shirt,1,5990.0,cash on delivery,delivered,4
+247,ORD1075,Rahul Johnson,41,Female,rahul.johnson9@outlook.com,West Bengal,25-08-2024,27-08-2024,ELECTRONICS,Wireless Mouse,1,8990.0,debit card,delivered,2
+248,ORD1288,Priya Das,52,Male,priya.das66@yahoo.com,Maharashtra,12-03-2024,21-03-2024,HOME & KITCHEN,Mixer Grinder,5,32990.0,debit card,delivered,4
+249,ORD1312,Ananya Kumar,20,Female,ananya.kumar61@outlook.com,Kerala,18-02-2024,25-02-2024,ELECTRONICS,Power Bank,1,14990.0,credit card,delivered,3
+251,ORD1014,Suresh Sharma,34,Male,suresh.sharma1@gmail.com,Telangana,02-11-2025,11-11-2025,CLOTHING,T-Shirt,2,5990.0,debit card,delivered,4
+252,ORD1245,Sarah Das,18,Male,sarah.das80@outlook.com,Maharashtra,12-05-2024,15-05-2024,CLOTHING,Sneakers,1,29990.0,credit card,delivered,3
+255,ORD1218,Divya Das,43,Female,divya.das33@gmail.com,Maharashtra,15-12-2024,20-12-2024,HOME & KITCHEN,Dinner Set,5,21990.0,cash on delivery,delivered,4
+257,ORD1123,Vikram Wilson,60,Male,vikram.wilson46@yahoo.com,Maharashtra,14-09-2024,18-09-2024,BEAUTY,Perfume,1,14990.0,debit card,delivered,4
+258,ORD1055,Emily Das,47,Male,emily.das87@yahoo.com,Kerala,27-08-2024,28-08-2024,CLOTHING,T-Shirt,3,5990.0,upi,delivered,5
+260,ORD1296,Ananya Sharma,42,Female,ananya.sharma98@gmail.com,Tamil Nadu,04-06-2025,09-06-2025,ELECTRONICS,Bluetooth Speaker,3,24990.0,debit card,shipped,4
+261,ORD1023,Suresh Reddy,30,Male,suresh.reddy26@yahoo.com,Telangana,31-05-2025,08-06-2025,CLOTHING,Sneakers,1,29990.0,net banking,delivered,3
+262,ORD1317,Lakshmi Menon,47,female,lakshmi.menon77@outlook.com,West Bengal,12-01-2025,18-01-2025,CLOTHING,T-Shirt,2,5990.0,debit card,pending,1
+263,ORD1214,divya wilson,25,Male,divya.wilson57@yahoo.com,Tamil Nadu,17-09-2024,25-09-2024,BEAUTY,Perfume,2,14990.0,debit card,returned,4
+265,ORD1286,Rohan Iyer,50,Male,rohan.iyer85@outlook.com,Maharashtra,06-03-2024,07-03-2024,HOME & KITCHEN,Air Fryer,99,54990.0,credit card,delivered,5
+266,ORD1405,Karthik Johnson,63,Female,karthik.johnson29@yahoo.com,Tamil Nadu,11-03-2024,17-03-2024,ELECTRONICS,Bluetooth Speaker,4,24990.0,net banking,delivered,4
+268,ORD1198,John Wilson,43,Male,john.wilson91@outlook.com,Maharashtra,12-05-2024,18-05-2024,ELECTRONICS,Bluetooth Speaker,3,24990.0,cash on delivery,pending,5
+269,ORD1035,John Iyer,18,Female,john.iyer3@gmail.com,West Bengal,15-05-2025,16-05-2025,CLOTHING,Sneakers,4,29990.0,upi,delivered,2
+270,ORD1042,John Patel,46,Female,john.patel22@yahoo.com,Telangana,08-11-2025,14-11-2025,ELECTRONICS,Headphones,3,19990.0,cash on delivery,shipped,3
+271,ORD1239,Karthik Reddy,65,Male,karthik.reddy61@gmail.com,Delhi,26-03-2025,02-04-2025,BOOKS,Python Basics,1,6990.0,net banking,pending,4
+272,ORD1371,Meera Das,27,male,meera.das98@gmail.com,Telangana,27-03-2024,03-04-2024,BOOKS,Python Basics,4,6990.0,debit card,delivered,3
+274,ORD1117,Sneha Reddy,38,Male,sneha.reddy82@gmail.com,Delhi,06-04-2025,13-04-2025,CLOTHING,sneakers,4,29990.0,debit card,delivered,4
+275,ORD1303,Ananya Nair,65,Female,ananya.nair67@gmail.com,Karnataka,23-08-2024,30-08-2024,ELECTRONICS,Headphones,1,19990.0,upi,shipped,4
+276,ORD1007,IMRAN SINGH,55,Female,imran.singh4@gmail.com,West Bengal,11-06-2024,14-06-2024,ELECTRONICS,Power Bank,3,14990.0,debit card,delivered,5
+277,ORD1175,Ananya Iyer,63,Male,ananya.iyer67@yahoo.com,Tamil Nadu,03-06-2025,09-06-2025,ELECTRONICS,Wireless Mouse,1,8990.0,credit card,delivered,5
+281,ORD1380,Ananya Iyer,30,Male,ananya.iyer13@yahoo.com,Telangana,10-04-2025,19-04-2025,BEAUTY,Hair Serum,1,6990.0,debit card,delivered,2
+283,ORD1022,Sneha Sharma,18,Female,sneha.sharma77@gmail.com,Tamil Nadu,15-07-2024,19-07-2024,HOME & KITCHEN,Dinner Set,1,21990.0,net banking,delivered,4
+284,ORD1166,John Reddy,23,Female,john.reddy11@yahoo.com,Maharashtra,04-07-2024,09-07-2024,HOME & KITCHEN,Mixer Grinder,4,32990.0,credit card,delivered,4
+285,ORD1176,ananya singh,60,Female,ananya.singh85@gmail.com,Telangana,15-08-2024,18-08-2024,HOME & KITCHEN,Mixer Grinder,1,32990.0,upi,delivered,4
+286,ORD1031,Divya Menon,20,Female,divya.menon73@gmail.com,Karnataka,19-07-2024,22-07-2024,ELECTRONICS,Power Bank,1,14990.0,cash on delivery,returned,3
+287,ORD1436,Lakshmi Sharma,46,Male,lakshmi.sharma83@outlook.com,Delhi,03-02-2024,12-02-2024,ELECTRONICS,Bluetooth Speaker,1,24990.0,cash on delivery,delivered,5
+290,ORD1258,Emily Das,35,Male,emily.das74@outlook.com,Karnataka,14-10-2024,19-10-2024,ELECTRONICS,Headphones,1,19990.0,credit card,returned,3
+294,ORD1444,Rohan Johnson,49,Male,rohan.johnson39@gmail.com,Kerala,17-06-2025,19-06-2025,CLOTHING,Sneakers,1,29990.0,debit card,shipped,4
+295,ORD1309,Lakshmi Brown,21,Male,lakshmi.brown96@outlook.com,Telangana,01-03-2025,04-03-2025,BEAUTY,Hair Serum,2,6990.0,debit card,returned,4
+297,ORD1266,Vikram Reddy,23,Female,vikram.reddy35@outlook.com,Delhi,17-01-2024,26-01-2024,HOME & KITCHEN,Dinner Set,1,21990.0,credit card,delivered,5
+298,ORD1172,Lakshmi Wilson,63,Male,lakshmi.wilson83@gmail.com,Telangana,07-03-2025,10-03-2025,CLOTHING,Jeans,4,17990.0,upi,delivered,4
+299,ORD1057,Aarav Kumar,43,Male,aarav.kumar77@outlook.com,Tamil Nadu,14-04-2025,16-04-2025,BEAUTY,Hair Serum,1,6990.0,credit card,delivered,4
+300,ORD1255,Karthik Patel,63,Male,karthik.patel53@gmail.com,Karnataka,19-02-2025,20-02-2025,HOME & KITCHEN,Dinner Set,2,21990.0,cash on delivery,delivered,3
+303,ORD1247,Fatima Reddy,22,Male,fatima.reddy32@yahoo.com,West Bengal,19-05-2024,25-05-2024,HOME & KITCHEN,Air Fryer,1,54990.0,credit card,returned,4
+304,ORD1256,Rohan Khan,47,Female,rohan.khan38@gmail.com,Maharashtra,16-11-2025,22-11-2025,BEAUTY,Hair Serum,2,6990.0,cash on delivery,delivered,4
+305,ORD1316,Emily Das,39,Male,emily.das73@yahoo.com,West Bengal,10-01-2025,13-01-2025,HOME & KITCHEN,Air Fryer,1,54990.0,cash on delivery,delivered,2
+307,ORD1428,Rahul Sharma,41,Male,rahul.sharma17@yahoo.com,West Bengal,13-08-2025,21-08-2025,ELECTRONICS,Bluetooth Speaker,3,24990.0,net banking,pending,1
+308,ORD1400,Vikram Menon,20,Female,vikram.menon66@outlook.com,Tamil Nadu,19-10-2024,25-10-2024,BOOKS,Data Science Handbook,2,12990.0,credit card,shipped,4
+310,ORD1034,Kavya Wilson,58,Female,kavya.wilson33@outlook.com,Tamil Nadu,16-08-2025,18-08-2025,ELECTRONICS,Headphones,2,19990.0,upi,shipped,4
+314,ORD1216,ARJUN JOHNSON,64,Female,arjun.johnson17@gmail.com,Delhi,18-06-2024,26-06-2024,CLOTHING,Jeans,1,17990.0,debit card,shipped,4
+315,ORD1182,Emily Singh,59,Female,emily.singh74@gmail.com,Tamil Nadu,09-11-2024,13-11-2024,ELECTRONICS,Power Bank,1,14990.0,upi,shipped,2
+317,ORD1338,Meera Iyer,59,Female,meera.iyer38@gmail.com,Maharashtra,24-08-2024,29-08-2024,CLOTHING,Sneakers,2,29990.0,net banking,shipped,3
+319,ORD1265,Karthik Iyer,49,Male,karthik.iyer95@gmail.com,Tamil Nadu,27-04-2025,05-05-2025,ELECTRONICS,Power Bank,1,14990.0,debit card,delivered,5
+320,ORD1103,Ananya Khan,53,Female,ananya.khan85@yahoo.com,Tamil Nadu,29-03-2024,03-04-2024,CLOTHING,Jacket,1,34990.0,cash on delivery,delivered,4
+322,ORD1246,Suresh Iyer,21,Female,suresh.iyer73@yahoo.com,Kerala,17-08-2025,19-08-2025,ELECTRONICS,Smart Watch,2,59990.0,net banking,pending,5
+327,ORD1433,Imran Iyer,29,Female,imran.iyer47@yahoo.com,Delhi,17-02-2024,25-02-2024,CLOTHING,T-Shirt,1,5990.0,debit card,delivered,5
+329,ORD1017,Meera Das,22,Male,meera.das27@gmail.com,Tamil Nadu,05-04-2025,12-04-2025,BEAUTY,Hair Serum,1,6990.0,debit card,pending,5
+331,ORD1413,Michael Johnson,21,Male,michael.johnson48@outlook.com,Tamil Nadu,10-08-2025,18-08-2025,BEAUTY,Moisturizer,1,4990.0,net banking,pending,1
+332,ORD1252,Kavya Iyer,50,Female,kavya.iyer56@outlook.com,West Bengal,08-08-2025,16-08-2025,ELECTRONICS,Wireless Mouse,2,8990.0,credit card,shipped,1
+333,ORD1191,Suresh Brown,47,Female,suresh.brown76@gmail.com,Maharashtra,16-02-2025,17-02-2025,CLOTHING,T-Shirt,1,5990.0,cash on delivery,delivered,5
+335,ORD1119,Suresh Reddy,36,Male,suresh.reddy65@gmail.com,West Bengal,15-05-2024,19-05-2024,BEAUTY,Moisturizer,2,4990.0,net banking,delivered,4
+339,ORD1127,John Iyer,150,Female,john.iyer12@yahoo.com,Kerala,01-09-2024,03-09-2024,ELECTRONICS,Wireless Mouse,2,8990.0,upi,returned,4
+340,ORD1018,Suresh Sharma,22,Female,suresh.sharma33@yahoo.com,Telangana,13-01-2024,18-01-2024,CLOTHING,Hoodie,4,12990.0,net banking,pending,5
+342,ORD1113,Rohan Sharma,31,Male,rohan.sharma31@gmail.com,Delhi,28-03-2025,06-04-2025,CLOTHING,T-Shirt,5,5990.0,net banking,delivered,3
+343,ORD1013,Rohan Reddy,18,Male,rohan.reddy7@gmail.com,Maharashtra,13-10-2025,19-10-2025,HOME & KITCHEN,Air Fryer,3,54990.0,upi,delivered,4
+344,ORD1318,Meera Smith,32,Male,meera.smith56@yahoo.com,Maharashtra,05-04-2024,07-04-2024,ELECTRONICS,Headphones,1,19990.0,credit card,pending,4
+346,ORD1315,Fatima Nair,64,Male,fatima.nair97@yahoo.com,Tamil Nadu,12-08-2024,19-08-2024,ELECTRONICS,Smart Watch,1,59990.0,credit card,returned,3
+348,ORD1048,Emily Brown,65,Female,emily.brown68@gmail.com,Tamil Nadu,21-07-2024,25-07-2024,ELECTRONICS,Power Bank,2,14990.0,credit card,delivered,5
+353,ORD1277,Priya Reddy,37,Male,priya.reddy4@gmail.com,Maharashtra,31-07-2024,07-08-2024,BEAUTY,Hair Serum,2,6990.0,net banking,delivered,3
+355,ORD1106,Suresh Patel,27,Male,suresh.patel26@yahoo.com,Telangana,01-11-2025,03-11-2025,CLOTHING,T-Shirt,2,5990.0,net banking,delivered,4
+361,ORD1407,Sneha Sharma,52,Female,sneha.sharma68@gmail.com,Maharashtra,19-07-2025,22-07-2025,CLOTHING,T-Shirt,1,5990.0,net banking,pending,4
+362,ORD1213,Michael Kumar,58,Female,michael.kumar43@yahoo.com,Delhi,07-03-2025,10-03-2025,HOME & KITCHEN,mixer grinder,2,32990.0,credit card,shipped,4
+364,ORD1458,Arjun Khan,35,Female,arjun.khan38@gmail.com,Maharashtra,21-07-2024,26-07-2024,ELECTRONICS,smart watch,3,59990.0,upi,delivered,2
+365,ORD1366,Meera Sharma,21,Female,meera.sharma43@yahoo.com,Karnataka,09-02-2024,18-02-2024,ELECTRONICS,Wireless Mouse,5,8990.0,upi,delivered,5
+369,ORD1429,Sarah Johnson,47,Female,sarah.johnson27@outlook.com,West Bengal,29-03-2024,03-04-2024,CLOTHING,jacket,1,34990.0,net banking,pending,5
+371,ORD1229,Rahul Smith,38,Female,rahul.smith75@gmail.com,Maharashtra,23-08-2024,31-08-2024,HOME & KITCHEN,Dinner Set,2,21990.0,upi,delivered,5
+372,ORD1345,Michael Reddy,61,Female,michael.reddy78@yahoo.com,West Bengal,02-07-2024,04-07-2024,CLOTHING,Sneakers,2,29990.0,upi,delivered,4
+373,ORD1049,Kavya Smith,48,Female,kavya.smith13@outlook.com,Karnataka,16-09-2025,22-09-2025,CLOTHING,T-Shirt,2,5990.0,debit card,delivered,1
+374,ORD1179,Meera Reddy,52,Female,meera.reddy49@outlook.com,Tamil Nadu,19-07-2025,22-07-2025,CLOTHING,T-Shirt,1,5990.0,net banking,delivered,5
+375,ORD1390,Lakshmi Das,27,Male,lakshmi.das99@yahoo.com,Tamil Nadu,02-09-2025,08-09-2025,ELECTRONICS,Power Bank,1,14990.0,debit card,shipped,5
+376,ORD1146,Karthik Johnson,39,Male,karthik.johnson14@outlook.com,West Bengal,17-07-2024,25-07-2024,BOOKS,SQL Guide,3,5990.0,credit card,pending,4
+377,ORD1045,Emily Reddy,44,Female,emily.reddy67@yahoo.com,Maharashtra,17-01-2024,23-01-2024,CLOTHING,Jacket,2,34990.0,debit card,shipped,3
+380,ORD1453,Arjun Brown,44,Female,arjun.brown34@yahoo.com,Telangana,03-04-2024,04-04-2024,CLOTHING,Jeans,1,17990.0,net banking,delivered,4
+381,ORD1226,ROHAN WILSON,64,Female,rohan.wilson60@outlook.com,Telangana,24-01-2024,26-01-2024,BEAUTY,Perfume,1,14990.0,debit card,shipped,5
+382,ORD1455,Lakshmi Sharma,49,Female,lakshmi.sharma90@outlook.com,West Bengal,02-02-2024,06-02-2024,HOME & KITCHEN,Mixer Grinder,2,32990.0,net banking,delivered,5
+383,ORD1136,Meera Brown,60,Male,meera.brown44@yahoo.com,Maharashtra,25-11-2024,28-11-2024,ELECTRONICS,Smart Watch,2,59990.0,cash on delivery,delivered,4
+385,ORD1152,Arjun Wilson,22,Female,arjun.wilson57@gmail.com,Maharashtra,23-02-2024,24-02-2024,CLOTHING,Jacket,3,34990.0,debit card,delivered,4
+386,ORD1099,Kavya Khan,47,Male,kavya.khan20@outlook.com,Kerala,09-01-2025,12-01-2025,BEAUTY,Face Wash,1,2490.0,credit card,delivered,4
+387,ORD1472,Priya Kumar,20,Female,priya.kumar45@outlook.com,Karnataka,30-01-2024,02-02-2024,ELECTRONICS,Power Bank,1,14990.0,net banking,delivered,1
+388,ORD1009,Aarav Brown,30,Female,aarav.brown78@outlook.com,Kerala,29-03-2025,07-04-2025,BOOKS,SQL Guide,4,5990.0,net banking,delivered,5
+389,ORD1374,Karthik Brown,40,Male,karthik.brown68@gmail.com,Maharashtra,15-02-2025,21-02-2025,ELECTRONICS,USB-C Cable,2,3490.0,debit card,delivered,3
+390,ORD1059,Rahul Das,32,Male,rahul.das19@yahoo.com,Tamil Nadu,27-08-2024,02-09-2024,BEAUTY,Hair Serum,5,6990.0,debit card,delivered,5
+391,ORD1064,Priya Brown,43,Male,priya.brown73@yahoo.com,West Bengal,03-09-2024,10-09-2024,BOOKS,Python Basics,1,6990.0,upi,returned,5
+394,ORD1135,Priya Wilson,47,male,priya.wilson3@outlook.com,Telangana,28-10-2025,01-11-2025,CLOTHING,Sneakers,3,29990.0,net banking,delivered,3
+396,ORD1310,Suresh Smith,40,Male,suresh.smith21@outlook.com,Maharashtra,28-03-2024,29-03-2024,ELECTRONICS,Headphones,3,19990.0,credit card,delivered,5
+397,ORD1157,Kavya Smith,54,Male,kavya.smith57@outlook.com,Karnataka,01-04-2025,02-04-2025,ELECTRONICS,Bluetooth Speaker,3,24990.0,net banking,delivered,5
+398,ORD1349,Rohan Iyer,22,Female,rohan.iyer57@outlook.com,Telangana,31-05-2024,08-06-2024,BOOKS,Python Basics,4,6990.0,net banking,delivered,3
+399,ORD1382,Karthik Nair,30,Male,karthik.nair90@yahoo.com,Maharashtra,26-04-2025,30-04-2025,ELECTRONICS,Smart Watch,1,59990.0,cash on delivery,delivered,5
+401,ORD1353,Imran Johnson,27,Male,imran.johnson47@gmail.com,Karnataka,17-12-2024,20-12-2024,BOOKS,Python Basics,1,6990.0,upi,delivered,4
+402,ORD1249,Imran Brown,22,Female,imran.brown1@gmail.com,Delhi,27-05-2024,02-06-2024,BOOKS,Python Basics,1,6990.0,credit card,delivered,5
+404,ORD1465,Meera Menon,65,Male,meera.menon9@gmail.com,Telangana,03-03-2025,07-03-2025,BOOKS,Novel - Fiction,1,3990.0,debit card,delivered,1
+408,ORD1299,Kavya Iyer,32,Female,kavya.iyer84@yahoo.com,Telangana,03-08-2024,07-08-2024,CLOTHING,Jacket,1,34990.0,credit card,delivered,5
+409,ORD1307,Sarah Brown,21,Female,sarah.brown43@yahoo.com,West Bengal,09-02-2025,13-02-2025,HOME & KITCHEN,Cookware Set,1,39990.0,cash on delivery,returned,5
+411,ORD1251,Vikram Smith,49,Male,vikram.smith91@yahoo.com,Maharashtra,27-04-2024,06-05-2024,HOME & KITCHEN,Mixer Grinder,1,32990.0,net banking,shipped,5
+412,ORD1233,Suresh Sharma,25,Female,suresh.sharma51@gmail.com,Tamil Nadu,06-10-2025,10-10-2025,BEAUTY,Perfume,3,14990.0,cash on delivery,delivered,1
+415,ORD1369,Ananya Kumar,35,Male,ananya.kumar92@yahoo.com,Maharashtra,07-09-2024,11-09-2024,BOOKS,Data Science Handbook,1,12990.0,upi,delivered,5
+416,ORD1151,Imran Patel,56,Female,imran.patel55@gmail.com,Kerala,05-06-2024,06-06-2024,BEAUTY,Moisturizer,2,4990.0,cash on delivery,shipped,4
+419,ORD1300,Karthik Brown,58,Female,karthik.brown25@outlook.com,Kerala,20-06-2025,21-06-2025,CLOTHING,Sneakers,3,29990.0,net banking,delivered,4
+421,ORD1149,Sarah Menon,32,Male,sarah.menon2@outlook.com,Tamil Nadu,11-03-2024,18-03-2024,BOOKS,Novel - Fiction,5,3990.0,debit card,delivered,4
+422,ORD1118,Emily Sharma,59,Male,emily.sharma40@gmail.com,Tamil Nadu,26-02-2025,28-02-2025,ELECTRONICS,Bluetooth Speaker,3,24990.0,credit card,returned,4
+424,ORD1195,Sarah Singh,54,Female,sarah.singh32@yahoo.com,Tamil Nadu,15-11-2025,23-11-2025,BOOKS,Novel - Fiction,2,3990.0,net banking,pending,2
+425,ORD1272,vikram brown,36,Female,vikram.brown97@outlook.com,Maharashtra,22-08-2025,25-08-2025,ELECTRONICS,USB-C Cable,3,3490.0,debit card,delivered,4
+428,ORD1420,Sarah Das,54,Female,sarah.das69@outlook.com,West Bengal,10-05-2025,14-05-2025,HOME & KITCHEN,Dinner Set,4,21990.0,credit card,delivered,5
+431,ORD1227,Aarav Iyer,24,Female,aarav.iyer84@yahoo.com,Delhi,30-08-2024,08-09-2024,CLOTHING,Hoodie,1,12990.0,credit card,shipped,5
+432,ORD1201,IMRAN NAIR,58,Male,imran.nair23@yahoo.com,Maharashtra,26-08-2025,29-08-2025,ELECTRONICS,USB-C Cable,4,3490.0,net banking,delivered,1
+435,ORD1427,John Iyer,27,Female,john.iyer48@yahoo.com,Kerala,03-07-2024,06-07-2024,ELECTRONICS,Power Bank,4,14990.0,debit card,pending,4
+437,ORD1295,ananya reddy,61,Male,ananya.reddy39@outlook.com,Maharashtra,22-09-2025,28-09-2025,CLOTHING,Sneakers,3,29990.0,upi,shipped,5
+438,ORD1419,Michael Brown,58,Male,michael.brown91@yahoo.com,Tamil Nadu,18-08-2024,26-08-2024,BEAUTY,Hair Serum,2,6990.0,debit card,shipped,1
+441,ORD1357,Rahul Johnson,59,Female,rahul.johnson67@outlook.com,Tamil Nadu,25-11-2024,03-12-2024,ELECTRONICS,USB-C Cable,2,3490.0,credit card,delivered,1
+442,ORD1466,Michael Wilson,39,Male,michael.wilson51@yahoo.com,Tamil Nadu,04-01-2025,08-01-2025,HOME & KITCHEN,Mixer Grinder,1,32990.0,cash on delivery,delivered,5
+444,ORD1442,Kavya Nair,19,Male,kavya.nair5@outlook.com,Tamil Nadu,28-03-2025,04-04-2025,BEAUTY,face wash,2,2490.0,debit card,pending,1
+445,ORD1414,Meera Patel,28,Male,meera.patel8@outlook.com,Tamil Nadu,21-04-2025,28-04-2025,HOME & KITCHEN,Dinner Set,1,21990.0,net banking,delivered,4
+446,ORD1404,Emily Nair,27,Male,emily.nair55@yahoo.com,Tamil Nadu,20-06-2024,23-06-2024,CLOTHING,Jeans,1,17990.0,net banking,delivered,1
+448,ORD1084,john menon,53,Male,john.menon18@outlook.com,Tamil Nadu,21-02-2025,01-03-2025,ELECTRONICS,Headphones,2,19990.0,cash on delivery,shipped,2
+449,ORD1079,Sarah Das,49,Male,sarah.das2@yahoo.com,Karnataka,30-07-2024,04-08-2024,BOOKS,Data Science Handbook,3,12990.0,credit card,delivered,1
+450,ORD1354,Priya Patel,41,Male,priya.patel2@yahoo.com,Tamil Nadu,18-05-2024,21-05-2024,CLOTHING,T-Shirt,3,5990.0,credit card,shipped,4
+452,ORD1399,sneha sharma,46,Female,sneha.sharma24@outlook.com,Kerala,30-11-2024,09-12-2024,BEAUTY,Hair Serum,2,6990.0,net banking,delivered,4
+453,ORD1344,Lakshmi Kumar,65,female,lakshmi.kumar36@gmail.com,Telangana,25-06-2025,26-06-2025,HOME & KITCHEN,Mixer Grinder,1,32990.0,net banking,delivered,5
+454,ORD1120,Aarav Das,53,Male,aarav.das58@outlook.com,Maharashtra,02-04-2025,03-04-2025,BOOKS,novel - fiction,2,3990.0,credit card,delivered,5
+455,ORD1094,Lakshmi Smith,26,Female,lakshmi.smith62@yahoo.com,Telangana,09-08-2024,12-08-2024,ELECTRONICS,Bluetooth Speaker,1,24990.0,upi,pending,2
+457,ORD1030,michael iyer,43,Male,michael.iyer19@outlook.com,West Bengal,13-05-2024,22-05-2024,CLOTHING,t-shirt,2,5990.0,cash on delivery,delivered,5
+458,ORD1370,Arjun Patel,56,Male,arjun.patel16@outlook.com,West Bengal,19-02-2025,20-02-2025,BEAUTY,Hair Serum,1,6990.0,upi,delivered,1
+459,ORD1438,AARAV PATEL,62,Male,aarav.patel70@yahoo.com,Maharashtra,19-04-2024,26-04-2024,CLOTHING,Jeans,2,17990.0,upi,delivered,5
+460,ORD1460,Ananya Sharma,42,Male,ananya.sharma38@gmail.com,West Bengal,28-08-2024,04-09-2024,CLOTHING,Jacket,2,34990.0,debit card,delivered,5
+461,ORD1459,Sarah Sharma,46,Male,sarah.sharma22@gmail.com,Delhi,12-05-2024,14-05-2024,BOOKS,Python Basics,2,6990.0,debit card,delivered,4
+467,ORD1178,arjun brown,62,Female,arjun.brown57@gmail.com,Karnataka,17-06-2025,21-06-2025,HOME & KITCHEN,Cookware Set,3,39990.0,cash on delivery,delivered,3
+468,ORD1165,Kavya Nair,28,Female,kavya.nair76@gmail.com,Telangana,10-06-2024,12-06-2024,CLOTHING,Jeans,2,17990.0,cash on delivery,delivered,5
+469,ORD1273,John Khan,18,Male,john.khan89@yahoo.com,Maharashtra,16-08-2025,25-08-2025,HOME & KITCHEN,Air Fryer,2,54990.0,credit card,delivered,4
+471,ORD1322,Rahul Singh,25,Female,rahul.singh60@outlook.com,Maharashtra,19-11-2024,28-11-2024,BEAUTY,Hair Serum,1,6990.0,upi,pending,3
+472,ORD1426,Fatima Iyer,30,Female,fatima.iyer31@outlook.com,Maharashtra,27-01-2024,05-02-2024,BEAUTY,Moisturizer,2,4990.0,credit card,delivered,4
+475,ORD1158,Lakshmi Iyer,31,Male,lakshmi.iyer25@yahoo.com,West Bengal,21-09-2025,28-09-2025,CLOTHING,Jeans,4,17990.0,cash on delivery,delivered,4
+476,ORD1477,Ananya Wilson,62,Female,ananya.wilson20@yahoo.com,Karnataka,04-05-2025,06-05-2025,CLOTHING,T-Shirt,2,5990.0,upi,delivered,1
+477,ORD1335,Karthik Singh,53,Male,karthik.singh13@gmail.com,West Bengal,26-12-2024,04-01-2025,CLOTHING,Hoodie,1,12990.0,debit card,delivered,4
+478,ORD1396,Vikram Smith,999,Male,vikram.smith38@outlook.com,Telangana,27-03-2025,01-04-2025,HOME & KITCHEN,Dinner Set,1,21990.0,credit card,pending,4
+479,ORD1137,Rahul Menon,35,Female,rahul.menon20@outlook.com,Karnataka,22-02-2025,26-02-2025,ELECTRONICS,Smart Watch,3,59990.0,credit card,delivered,1
+480,ORD1185,Sneha Sharma,57,Female,sneha.sharma91@gmail.com,Karnataka,02-11-2024,08-11-2024,CLOTHING,Jacket,3,34990.0,cash on delivery,delivered,4
+481,ORD1183,Divya Wilson,31,Female,divya.wilson3@gmail.com,Tamil Nadu,20-04-2024,28-04-2024,CLOTHING,Sneakers,1,29990.0,credit card,delivered,4
+484,ORD1326,Sarah Reddy,27,Male,sarah.reddy62@gmail.com,West Bengal,17-02-2025,25-02-2025,BOOKS,Python Basics,1,6990.0,credit card,delivered,4
+485,ORD1325,Meera Reddy,50,Female,meera.reddy71@gmail.com,Maharashtra,22-05-2024,31-05-2024,ELECTRONICS,Smart Watch,3,59990.0,debit card,delivered,3
+488,ORD1077,Divya Smith,44,Female,divya.smith96@gmail.com,Tamil Nadu,22-11-2024,28-11-2024,HOME & KITCHEN,Mixer Grinder,1,32990.0,cash on delivery,delivered,3
+489,ORD1188,Sneha Brown,36,Female,sneha.brown66@outlook.com,Tamil Nadu,22-08-2024,28-08-2024,HOME & KITCHEN,Cookware Set,2,39990.0,upi,delivered,3
+498,ORD1284,Imran Smith,40,Male,imran.smith14@outlook.com,Tamil Nadu,19-02-2025,21-02-2025,BOOKS,SQL Guide,4,5990.0,cash on delivery,shipped,1
